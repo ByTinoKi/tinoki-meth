@@ -1,3 +1,9 @@
-# tinoki-meth
+Meth script by TinoKi
 
-Preview -> https://youtu.be/KX3WNviyShw
+Framework = ESX
+
+Dependencies = pNotify, rprogress
+
+Preview = https://youtu.be/KX3WNviyShw
+
+Discord = https://discord.gg/fTC3Utg4vF
